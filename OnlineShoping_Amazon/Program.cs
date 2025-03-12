@@ -25,7 +25,7 @@ namespace OnlineShoping_Amazon
 
         
           Console.WriteLine("some more changes by roshan");
-          Console.WriteLine("This is Surendhiran")
+            Console.WriteLine("This is Surendhiran");
             Console.WriteLine("Work by Arun");
 
             Console.WriteLine("new  ");
@@ -34,6 +34,8 @@ namespace OnlineShoping_Amazon
             Console.WriteLine("Made changes by Saradhe");
 
             Console.WriteLine("hi this is abi");
+            Console.WriteLine("Changes made by prithiv");
+            
 
 
 
