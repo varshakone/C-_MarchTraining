@@ -12,6 +12,7 @@ namespace OnlineShoping_Amazon
         {
             Console.WriteLine( "Hello World" );
             Console.WriteLine( "Hello from avijita developer" );
+            Console.ReadKey();  
         }
     }
 }
